@@ -96,18 +96,6 @@ Siempre estoy aprendiendo nuevas tecnologías y buenas prácticas para construir
 
 ---
 
-# 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RaulRestrepoGonzalez&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulRestrepoGonzalez&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 # 🔥 Racha de contribuciones
 
 <div align="center">
@@ -128,11 +116,21 @@ Siempre estoy aprendiendo nuevas tecnologías y buenas prácticas para construir
 
 ---
 
-# 🏆 Trofeos
+# 🎓 Certificaciones
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RaulRestrepoGonzalez&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+### Credenciales verificadas
+
+<a href="https://www.credly.com/users/raul-alfonso-restrepo-gonzalez/badges" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My-Credly%20Badges-orange?style=for-the-badge&logo=credly&logoColor=white" />
+</a>
+
+<br><br>
+
+Todas mis certificaciones e insignias digitales verificadas están disponibles en mi perfil de Credly.
+
+➡️ **https://www.credly.com/users/raul-alfonso-restrepo-gonzalez/badges**
 
 </div>
 
@@ -163,9 +161,9 @@ Siempre estoy aprendiendo nuevas tecnologías y buenas prácticas para construir
 
 <div align="left">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raulrestrepogonzalez@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](TU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/raúl-alfonso-restrepo-gonzalez-16494524a)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/RaulRestrepoGonzalez)
 
