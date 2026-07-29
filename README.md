@@ -140,7 +140,6 @@ Todas mis certificaciones e insignias digitales verificadas están disponibles e
 
 | Proyecto | Descripción |
 |----------|-------------|
-| 🖥️ Office Installer | Instalador oficial para Microsoft Office. |
 | 🏥 Sistema de Imagenología | Sistema de gestión para IPS desarrollado con Angular y Python. |
 | 📱 Flutter Apps | Aplicaciones móviles multiplataforma. |
 | 🐍 Python Desktop Apps | Aplicaciones de escritorio desarrolladas en Python. |
