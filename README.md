@@ -1,101 +1,182 @@
-
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+# 👋 ¡Hola! Soy Raúl Restrepo González
+
+### 💻 Ingeniero de Sistemas | Full Stack Developer | Flutter Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Angular+%7C+Python+%7C+Flutter;Desktop+Application+Developer;Backend+Developer;Always+learning+new+technologies"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=RaulRestrepoGonzalez&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
 </div>
 
-###
+---
 
-<h2 align="center">Hi 👋, I'm Raul</h2>
+# 👨‍💻 Sobre mí
 
-###
+💙 Soy Ingeniero de Sistemas apasionado por el desarrollo de software y la creación de soluciones tecnológicas.
 
-<h3 align="left">🛠 Language and tools</h3>
+🚀 Me gusta desarrollar aplicaciones:
 
-###
+- 🌐 Web
+- 📱 Móviles
+- 🖥️ Escritorio
+- ☁️ Cloud
+
+Actualmente trabajo principalmente con **Angular**, **Python**, **Flutter**, **Node.js**, **.NET**, **JavaScript**, **Java**, **Django** y bases de datos SQL y NoSQL.
+
+Siempre estoy aprendiendo nuevas tecnologías y buenas prácticas para construir software escalable y de alta calidad.
+
+---
+
+# 🚀 Tecnologías
+
+## 🎨 Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,ts,js,react" />
+</p>
+
+## ⚙️ Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,cs,dotnet" />
+</p>
+
+## 📱 Mobile
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio" />
+</p>
+
+## 🗄️ Bases de Datos
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="48"/>
+</p>
+
+## ☁️ Cloud & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,git,github,gitlab" />
+</p>
+
+## 🛠 Herramientas
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,figma,unity,blender" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48"/>
+</p>
+
+---
+
+# 💼 Lo que desarrollo
+
+✅ Aplicaciones Web
+
+✅ APIs REST
+
+✅ Aplicaciones de Escritorio
+
+✅ Aplicaciones Móviles
+
+✅ Automatización de procesos
+
+✅ Dashboards
+
+✅ Integración de APIs
+
+✅ Bases de Datos
+
+✅ Sistemas Empresariales
+
+---
+
+# 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RaulRestrepoGonzalez&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulRestrepoGonzalez&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 Racha de contribuciones
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=RaulRestrepoGonzalez&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Actividad
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaulRestrepoGonzalez&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏆 Trofeos
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RaulRestrepoGonzalez&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 🌟 Proyectos Destacados
+
+| Proyecto | Descripción |
+|----------|-------------|
+| 🖥️ Office Installer | Instalador oficial para Microsoft Office. |
+| 🏥 Sistema de Imagenología | Sistema de gestión para IPS desarrollado con Angular y Python. |
+| 📱 Flutter Apps | Aplicaciones móviles multiplataforma. |
+| 🐍 Python Desktop Apps | Aplicaciones de escritorio desarrolladas en Python. |
+
+---
+
+# 🌱 Actualmente aprendiendo
+
+- Arquitectura de Software
+- DevOps
+- Inteligencia Artificial
+- Cloud Computing
+- Microservicios
+
+---
+
+# 📫 Contacto
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="neo4j logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](TU_LINKEDIN)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/RaulRestrepoGonzalez)
+
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raulrestrepogonzalez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raulrestrepogonzalez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+### ⭐ Gracias por visitar mi perfil ⭐
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=raulrestrepogonzalez&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
